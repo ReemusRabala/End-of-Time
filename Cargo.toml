@@ -1,0 +1,6 @@
+[package]
+name = "end_of_time"
+version = "0.1.0"
+authors = ["Reemus Räbälä <nagu@null.net>"]
+
+[dependencies]
